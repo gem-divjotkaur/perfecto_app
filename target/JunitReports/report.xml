@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="23.113" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login page" name="Signup to the page - Example #1.1" time="22.964">
+<system-out><![CDATA[
+Given User enters the desired capabilities..................................passed
+When User clicks on signup button...........................................passed
+And User enters the data in the signup window...............................passed
+Given User enter the "divjot123@gmail.com" and "password"...................passed
+When User clicks on login button............................................passed
+Then User close the page....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
